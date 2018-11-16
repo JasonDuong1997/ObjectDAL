@@ -20,7 +20,7 @@ def activation(x, type):
 	if (type == "relu"):
 		return tf.nn.relu(x)
 	elif (type == "leaky_relu"):
-		return 	return tf.nn.leaky_relu(x, alpha=0.1)
+		return tf.nn.leaky_relu(x, alpha=0.1)
 	elif (type == "siggmoid"):
 		return tf.sigmoid(x)
 	elif (type == "tanh"):
