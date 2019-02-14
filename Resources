@@ -6,3 +6,16 @@ https://arxiv.org/abs/1506.02640
 
 https://pythonprogramming.net/introduction-use-tensorflow-object-detection-api-tutorial/
     Introduction to TensorFlow Object Detection API
+{
+    When going through the tutorial, things to note:
+
+    1.  Instead of downloading protoc version 3.5.0, use
+        protoc version 3.4.0
+
+    2.  Use this command on Windows
+        SET PYTHONPATH=%cd%;%cd%\slim
+     https://github.com/tensorflow/models/issues/2577
+
+    3.  Use this MODEL_NAME in jupyter notebook:
+        MODEL_NAME = 'ssd_mobilenet_v1_coco_2017_11_17'
+}
