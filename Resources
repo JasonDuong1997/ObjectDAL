@@ -1,3 +1,13 @@
+INSTALLATION
+TensorFlow: 1.10.0
+    python35 -m pip install tensorflow-gpu==1.10.0
+
+Cuda: 9.0
+
+CudNN: 7.3 for Cuda 9.0
+
+
+REFERENCES
 https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/?__s=xnq5k1yqfoyzfnb7rofs
     YOLO Object Detection Blog Post
 
