@@ -4,18 +4,20 @@ TensorFlow: 1.10.0
 
 Cuda: 9.0
 
-CudNN: 7.3 for Cuda 9.0
+CudNN: 7.3 (compatible with Cuda 9.0)
 
+OpenCV
+    python35 -m pip install opencv-python
 
 REFERENCES
+YOLO Object Detection Blog Post
 https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/?__s=xnq5k1yqfoyzfnb7rofs
-    YOLO Object Detection Blog Post
 
+You Only Look Once (YOLO): Unified, Real-Time Object Detection
 https://arxiv.org/abs/1506.02640
-    You Only Look Once (YOLO): Unified, Real-Time Object Detection
 
+Introduction to TensorFlow Object Detection API
 https://pythonprogramming.net/introduction-use-tensorflow-object-detection-api-tutorial/
-    Introduction to TensorFlow Object Detection API
 {
     When going through the tutorial, things to note:
 
