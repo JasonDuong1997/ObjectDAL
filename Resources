@@ -29,3 +29,9 @@ https://pythonprogramming.net/introduction-use-tensorflow-object-detection-api-t
     3.  Use this MODEL_NAME in jupyter notebook:
         MODEL_NAME = 'ssd_mobilenet_v1_coco_2017_11_17'
 }
+
+
+TOOLS
+LabelImg - Manually drawing bounding boxes on images in dataset
+    https://github.com/tzutalin/labelImg
+- Hotkeys: W for box, A for previous photo, D for next photo, Ctrl + S for save box data
