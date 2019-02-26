@@ -32,6 +32,8 @@ https://pythonprogramming.net/introduction-use-tensorflow-object-detection-api-t
         MODEL_NAME = 'ssd_mobilenet_v1_coco_2017_11_17'
 }
 
+TFRecords
+https://medium.com/mostly-ai/tensorflow-records-what-they-are-and-how-to-use-them-c46bc4bbb564
 
 TOOLS
 LabelImg - Manually drawing bounding boxes on images in dataset
