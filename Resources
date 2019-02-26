@@ -34,6 +34,8 @@ https://pythonprogramming.net/introduction-use-tensorflow-object-detection-api-t
 
 TFRecords
 https://medium.com/mostly-ai/tensorflow-records-what-they-are-and-how-to-use-them-c46bc4bbb564
+https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/how_tos/reading_data/convert_to_records.py
+https://www.skcript.com/svr/why-every-tensorflow-developer-should-know-about-tfrecord/
 
 TOOLS
 LabelImg - Manually drawing bounding boxes on images in dataset
